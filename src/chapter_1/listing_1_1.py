@@ -1,13 +1,14 @@
+from urllib.parse import urlparse
+
 import requests
 
-request = requests.get("https://mail.ru")
+site_name = "https://ya.ru"
+out_file_name = urlparse(site_name).netloc + ".txt"
+request = requests.get(site_name)
 items = request.headers.items()
-print(items)
 headers = [f"{key} : {header}" for key, header in items]
-print("****")
-print(headers)
-formatted_haeders = "\n".join(headers)
-print("****")
-print(formatted_haeders)
-with open("headers.txt", "w") as file:
-    file.write(formatted_haeders)
+headers.sort(key=lambda s: s.split(" : ", 1)[0].lower())
+formatted_headers = "\n".join(headers)
+
+with open(out_file_name, "w") as file:
+    file.write(formatted_headers)
