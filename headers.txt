@@ -1,0 +1,19 @@
+Server : nginx
+Date : Tue, 22 Sep 2026 10:36:23 GMT
+Content-Type : text/html; charset=UTF-8
+Transfer-Encoding : chunked
+Connection : keep-alive
+x-host : fau59.m.smailru.net
+set-cookie : oid=6X78CkZ2UdRDLC1spfVQs; Path=/; Domain=mail.ru; Max-Age=315360000
+X-Mru-Request-Id : 0c2e9bac
+Cache-Control : no-cache,no-store,must-revalidate
+Pragma : no-cache
+Expires : Mon, 22 Sep 2025 10:36:23 GMT
+X-Mru-Sota-Response : 1
+Strict-Transport-Security : max-age=31536000; includeSubDomains; preload
+Accept-CH : Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version, Sec-CH-UA-Model, Sec-CH-UA-Full-Version-List
+X-XSS-Protection : 1; mode=block; report=https://cspreport.mail.ru/xxssprotection
+Content-Security-Policy : default-src 'none'; base-uri 'none'; script-src 'self' 'nonce-fc9dd5a4308776a499fe00a1bf1e6f57' https://img.imgsmail.ru https://imgs2.imgsmail.ru https://imgs3.imgsmail.ru https://portal.mail.ru https://portal.test.mail.ru https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ https://top-fwz1.mail.ru 'report-sample' https://limg.imgsmail.ru https://home.imgsmail.ru; style-src 'self' https://img.imgsmail.ru https://imgs2.imgsmail.ru https://imgs3.imgsmail.ru 'unsafe-inline' https://limg.imgsmail.ru https://home.imgsmail.ru; font-src https://img.imgsmail.ru https://imgs2.imgsmail.ru https://imgs3.imgsmail.ru; media-src https://imgs2.imgsmail.ru https://imgs3.imgsmail.ru; img-src 'self' data: https://img.imgsmail.ru https://imgs2.imgsmail.ru https://imgs3.imgsmail.ru https://stat.radar.imgsmail.ru https://rs.mail.ru https://www.tns-counter.ru https://top-fwz1.mail.ru https://filin.mail.ru https://r3.mail.ru https://c.mail.ru https://c.my.com https://*.userapi.com https://*.vk.com https://*.vk.ru https://vk.com https://vk.ru https://limg.imgsmail.ru https://home.imgsmail.ru https://retina.news.mail.ru https://xray.mail.ru https://ad.mail.ru https://trk.mail.ru https://r.mradx.net; connect-src 'self' https://portal.mail.ru https://auth.mail.ru https://*.auth.mail.ru https://aj-https.my.com https://account.mail.ru https://*.test.mail.ru https://login.vk.com https://login.vk.ru wss://rebus.e.mail.ru https://ok.ru https://bar.love.mail.ru https://vk.com https://vk.ru https://xray.mail.ru https://ad.mail.ru https://sdk-api.apptracer.ru https://sdk-api.apptracer.ru; child-src https://account.mail.ru https://*.test.mail.ru https://test.auth.mail.ru https://auth.mail.ru https://www.google.com/recaptcha/ https://connect.vk.com https://connect.vk.ru https://id.vk.com https://id.vk.ru https://portal.mail.ru https://marusia-web.go.mail.ru https://limg.imgsmail.ru; report-uri https://cspreport.mail.ru/login;
+X-Content-Type-Options : nosniff
+Vary : Referer
+Content-Encoding : gzip
